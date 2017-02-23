@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of MyFirstCocoaPod.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jongwonwoo1@gmail.com/MyFirstCocoaPod",
+  "homepage": "https://github.com/jongwonwoo/MyFirstCocoaPod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "jongwonwoo1@gmail.com": "jongwonwoo1@gmail.com"
+    "Jongwon Woo": "jongwonwoo1@gmail.com"
   },
   "source": {
-    "git": "https://github.com/jongwonwoo1@gmail.com/MyFirstCocoaPod.git",
+    "git": "https://github.com/jongwonwoo/MyFirstCocoaPod.git",
     "tag": "0.1.0"
   },
   "platforms": {
